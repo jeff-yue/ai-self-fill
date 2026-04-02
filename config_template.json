@@ -1,0 +1,11 @@
+{
+    "_comment": "配置模板文件 - 复制为config.json并修改参数",
+    "x_auth": "你的认证token",
+    "period_start_date": "YYYY-MM-DD",
+    "period_end_date": "YYYY-MM-DD",
+    "excel_path": "Excel文件的完整路径",
+    "user_id": "用户ID",
+    "collection_group_record_id": "采集组记录ID",
+    "input_column": "输入",
+    "output_column": "实际输出"
+}

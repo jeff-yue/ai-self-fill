@@ -1,0 +1,10 @@
+{
+    "x_auth": "0D183AF4305BBEE329A20289F15225C0",
+    "period_start_date": "2026-01-01",
+    "period_end_date": "2026-01-31",
+    "excel_path": "e:\\Test-QA\\ai-self-fill\\conversation.xlsx",
+    "user_id": "346568",
+    "collection_group_record_id": "174",
+    "input_column": "输入",
+    "output_column": "实际输出"
+}
