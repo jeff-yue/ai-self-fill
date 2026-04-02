@@ -18,7 +18,7 @@ POST data:
 }
 
 
-2.发送对话消息 支持多轮对话
+2.发送对话消息  支持多轮对话
 请求头：
 Content-Type: application/json
 X-AUTH: AFC0937794E21C554173E597B33640BA
